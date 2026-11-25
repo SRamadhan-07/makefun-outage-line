@@ -1,8 +1,8 @@
 # The Most Honest Outage Line
 
-![Competition badge](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)
-![Rank badge](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/SRamadhan-07/makefun-outage-line/rank.svg)
-![Reward badge](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/SRamadhan-07/makefun-outage-line/reward.svg)
+[![Competition badge](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
+[![Rank badge](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/SRamadhan-07/makefun-outage-line/rank.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
+[![Reward badge](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/SRamadhan-07/makefun-outage-line/reward.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
 
 A Python program that writes the most honest status-page line: all systems
 down, including the one that says which are down.
